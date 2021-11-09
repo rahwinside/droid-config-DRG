@@ -14,6 +14,9 @@ Requires: droid-config-drg-flashing
 Requires: droid-config-drg-bluez5
 Requires: droid-hal-version-drg
 
+# Adding for straggler_files
+Requires: droid-hal-drg-detritus
+
 # Hybris packages
 Requires: libhybris-libEGL
 Requires: libhybris-libGLESv2
